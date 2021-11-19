@@ -1,0 +1,94 @@
+{
+    "grocery": [
+         {
+             "id": 1,
+             "name": "Milk",
+             "quantity": 21,
+             "unit": 46,
+             "department":"Diary",
+             "notes": "Milma"
+         },
+         {
+             "id": 2,
+             "name": "Mango",
+             "quantity": 7,
+             "unit": 9,
+             "department":"Fruits",
+             "notes": "Mulgoba Mango"
+         },
+         {
+             "id": 3,
+             "name": "Carrot",
+             "quantity": 8,
+             "unit": 4,
+             "department":"Vegetables",
+             "notes": "Fresh Carrot"
+         },
+         {
+             "id": 4,
+             "name": "Jeera Rice",
+             "quantity": 2,
+             "unit": 46,
+             "department": "Rice",
+             "notes": "Small Biriyani Rice"
+         },
+         {
+             "id": 5,
+             "name": "Paneer",
+             "quantity": 2,
+             "unit": 46,
+             "department": "Diary",
+             "notes": "ID Paneer"
+         },
+         {
+             "id": 6,
+             "name": "Chick Peas",
+             "quantity": 2,
+             "unit": 46,
+             "department": "Legume",
+             "notes": "white color"
+         },
+         {
+             "id": 7,
+             "name": "Chicken",
+             "quantity": 1,
+             "unit": 1.5,
+             "department": "Meat",
+             "notes": "Country Chicken"
+         },
+         {
+             "id": 7,
+             "name": "Mung Bean",
+             "quantity": 12,
+             "unit": 7,
+             "department": "Legume",
+             "notes": "Green color"
+         },
+         {
+             "id": 8,
+             "name": "Coffee",
+             "quantity": 2,
+             "unit": 4,
+             "department": "Beverages",
+             "notes": "Filter Coffee"
+         },
+         {
+             "id": 9,
+             "name": "Tea",
+             "quantity": 2,
+             "unit": 4,
+             "department": "Beverages",
+             "notes": "Green Tea"
+         },
+         {
+             "id": 10,
+             "name": "Eggs",
+             "quantity": 2,
+             "unit": 46,
+             "department": "Poultry",
+             "notes": "Desi Eggs"
+         }
+     ]
+     
+      
+ }
